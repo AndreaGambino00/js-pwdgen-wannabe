@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("https://www.wallpapertip.com/wmimgs/1-17102_small-memory.jpg");
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: 400px;
+}
